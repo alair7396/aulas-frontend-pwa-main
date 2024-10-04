@@ -1,5 +1,8 @@
 .Rodape_root{
     height: 48px;
     background-color: var(--cor-secundaria-escura);
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
