@@ -1,0 +1,27 @@
+.botao-customizado_root {
+    background-color: var(--cor-info);
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: cursive;
+    border: none;
+    font-size: 14px;
+    opacity: 0.8;
+    cursor: pointer;
+    
+}
+.botao-customizado_root:hover {
+    opacity: 1;
+}
+
+.botao-customizado_primario {
+    background-color: var(--cor-primaria-escura)
+}
+.botao-customizado_secundario {
+    background-color: var(--cor-erro)
+}
+.botao-customizado_padrao{
+
+    background-color: var(--cor-aviso);
+}

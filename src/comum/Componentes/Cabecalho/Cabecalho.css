@@ -1,4 +1,7 @@
-.cabecalho_root{
+.cabecalho_root {
+    display: flex;
+    justify-content: end;
+    padding: 0 20px;
     height: 48px;
     background-color: var(--cor-secundaria-clara);
 

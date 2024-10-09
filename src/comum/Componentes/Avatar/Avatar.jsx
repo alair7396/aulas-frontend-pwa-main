@@ -1,10 +1,10 @@
 import './Avatar.css'
 
 
-const Avatar=(props) =>{
-    return(
+const Avatar = (props) => {
+    return (
         <>
-        <div className='avatar_root'>{props.nome}</div>
+            <div className='avatar_root'>{props.nome}</div>
         </>
     )
 }

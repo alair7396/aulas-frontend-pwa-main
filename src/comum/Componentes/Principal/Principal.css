@@ -1,4 +1,9 @@
 .Principal_root{
     background-color: var(--cor-secundaria);
-    
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-family: cursive;
+
 }

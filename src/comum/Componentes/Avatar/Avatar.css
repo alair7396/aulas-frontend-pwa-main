@@ -2,7 +2,7 @@
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    background-color: blueviolet;
+    background-color: var(--cor-secundaria);
     display: flex;
     align-items: center;
     justify-content: center;
