@@ -1,4 +1,4 @@
-.Principal_root{
+.Principal_root {
     background-color: var(--cor-secundaria);
     padding: 20px;
     display: flex;
@@ -6,4 +6,10 @@
     gap: 20px;
     font-family: cursive;
 
+}
+
+.principal_titulo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
