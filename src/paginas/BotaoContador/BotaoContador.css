@@ -1,0 +1,16 @@
+.soma {
+    color: blue;
+}
+
+.subtrai {
+    color: brown;
+}
+
+.subtrai2 {
+    color: brown;
+    background-color: blue;
+    opacity: o.8;
+    cursor: pointer;
+
+
+}
